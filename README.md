@@ -1,2 +1,7 @@
 # fall2018_gamedev
-placeholder for 2 sections of Intermediate Game Dev that I'm teaching at NYU Game Center for Fall 2018
+
+### students in SECTION 001 MORNING (9:30am - 12:15pm)
+- go here and bookmark in your browser: https://github.com/radiatoryang/fall2018_gamedev1_morning
+
+### students in SECTION 002 AFTERNOON (2:00pm - 4:45pm)
+- go here and bookmark in your browser: https://github.com/radiatoryang/fall2018_gamedev2_afternoon
