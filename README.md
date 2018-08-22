@@ -1,4 +1,4 @@
-# fall2018_gamedev
+# fall2018_gamedev : INTERMEDIATE GAME DEVELOPMENT, FALL 2018, NYU GAME CENTER
 
 ### students in SECTION 001 MORNING (9:30am - 12:15pm)
 - go here and bookmark in your browser: https://github.com/radiatoryang/fall2018_gamedev1_morning
